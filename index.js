@@ -1,3 +1,3 @@
 module.exports = (name) => {
-    return `Hello ${name} !`;
+    return `Sefu' la bani, ${name} !`;
 }
